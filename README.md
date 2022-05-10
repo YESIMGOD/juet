@@ -1,3 +1,4 @@
 # juet
 JUET Cllg
-Hello
+Hello Everyone, Welcome 
+Hope U are enjoying ur day
